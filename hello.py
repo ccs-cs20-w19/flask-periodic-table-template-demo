@@ -5,10 +5,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World! (2)'
+    return 'Hello, World! (3)'
 
-#@app.route('/make/<word>')
-#def show_make(word):
-#    # show the user profile for that user
-#    return repr(makeWords.wordToElems(word))
+@app.route('/make/<word>')
+def show_make(word):
+    return repr(makeWords.wordToElems(word))
 
