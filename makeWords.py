@@ -8,8 +8,6 @@ def printAllWords():
     if ways != set():
       print(ways)
 
-
-
 def countWords():
  allWordCount = 0
  canMakeCount = 0
