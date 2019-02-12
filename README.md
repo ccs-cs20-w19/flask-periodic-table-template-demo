@@ -1,9 +1,12 @@
-# flask-periodic-demo-heroku
+# flask-periodic-table-template-demo
 
-Demo Flask Periodic Table on Heroku
+Based on code that was originally in:
 
-Minimum viable product demo integrating wordmaker and Flask, with deployment on Heroku
+* <https://github.com/ccs-cs20-w19/flask-periodic-demo-heroku>
 
+We are showing how to build a web app that can take words and produce spellings of those words using chemical element symbols from the periodic table.
+
+This version adds using Templates in Flask
 
 # Dependencies
 
