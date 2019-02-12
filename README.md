@@ -28,7 +28,7 @@ Then put a web browser to `http://127.0.0.1:5000/`
 
 To show periodic table elements for a word, use:
 
-  http://127.0.0.1:5000/someword
+  http://127.0.0.1:5000/make/someword
 
 # Deployed on Heroku
 
@@ -38,9 +38,9 @@ https://flask-periodic-demo-heroku.herokuapp.com/
 
 To show periodic table elements for a word, use:
 
-https://flask-periodic-demo-heroku.herokuapp.com/someword
+https://flask-periodic-demo-heroku.herokuapp.com/make/someword
 
 
-https://flask-periodic-demo-heroku.herokuapp.com/CCS
+https://flask-periodic-demo-heroku.herokuapp.com/make/CCS
 
-https://flask-periodic-demo-heroku.herokuapp.com/UCSB
+https://flask-periodic-demo-heroku.herokuapp.com/make/UCSB
