@@ -8,6 +8,10 @@ We are showing how to build a web app that can take words and produce spellings 
 
 This version adds using Templates in Flask
 
+Note: These tutorials may be helpful in understanding Templates in Flask:
+* <http://flask.pocoo.org/docs/1.0/templating/>
+* <https://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-essentials--cms-25571>
+
 # Dependencies
 
 You will need to use "pip install ..." to install these modules
