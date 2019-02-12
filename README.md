@@ -30,10 +30,17 @@ To show periodic table elements for a word, use:
 
   http://127.0.0.1:5000/someword
 
+# Deployed on Heroku
+
+This app is deployed on Heroku here:
+
+https://flask-periodic-demo-heroku.herokuapp.com/
+
+To show periodic table elements for a word, use:
+
+https://flask-periodic-demo-heroku.herokuapp.com/someword
 
 
+https://flask-periodic-demo-heroku.herokuapp.com/CCS
 
-
-
-
->>>>>>> 118ff1c2cb317045b8edf79e67a20aa58d3c1d7b
+https://flask-periodic-demo-heroku.herokuapp.com/UCSB
